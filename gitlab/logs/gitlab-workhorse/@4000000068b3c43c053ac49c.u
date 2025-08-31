@@ -1,0 +1,10 @@
+configFile: file: open config.toml: no such file or directory
+configFile: file: open config.toml: no such file or directory
+{"build_time":"20250826.141249","level":"info","msg":"Starting","time":"2025-08-31T03:37:52Z","version":"v18.3.1"}
+{"address":"localhost:9229","level":"info","msg":"Running metrics server","network":"tcp","time":"2025-08-31T03:37:52Z"}
+{"level":"info","msg":"Using redis/go-redis","time":"2025-08-31T03:37:52Z"}
+{"level":"info","msg":"keywatcher: starting process loop","time":"2025-08-31T03:37:52Z"}
+{"level":"info","msg":"keywatcher: listening for subscriptions","time":"2025-08-31T03:37:52Z"}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: no such file or directory","level":"error","method":"GET","msg":"","time":"2025-08-31T03:37:52Z","uri":""}
+{"address":"/var/opt/gitlab/gitlab-workhorse/sockets/socket","level":"info","msg":"Running upstream server","network":"unix","time":"2025-08-31T03:37:52Z"}
+{"correlation_id":"","duration_ms":0,"error":"badgateway: failed to receive response: dial unix /var/opt/gitlab/gitlab-rails/sockets/gitlab.socket: connect: no such file or directory","level":"error","method":"GET","msg":"","time":"2025-08-31T03:38:02Z","uri":""}

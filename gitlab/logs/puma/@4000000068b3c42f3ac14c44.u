@@ -1,0 +1,10 @@
+2025-08-31_03:37:41.68160 {"timestamp":"2025-08-31T03:37:41.665Z","pid":833,"message":"Puma starting in cluster mode..."}
+2025-08-31_03:37:41.68169 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"* Puma version: 6.6.1 (\"Return to Forever\")"}
+2025-08-31_03:37:41.68170 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"* Ruby version: ruby 3.2.8 (2025-03-26 revision 13f495dc2c) [x86_64-linux]"}
+2025-08-31_03:37:41.68170 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"*  Min threads: 4"}
+2025-08-31_03:37:41.68170 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"*  Max threads: 4"}
+2025-08-31_03:37:41.68171 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"*  Environment: production"}
+2025-08-31_03:37:41.68172 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"*   Master PID: 833"}
+2025-08-31_03:37:41.68175 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"*      Workers: 2"}
+2025-08-31_03:37:41.68179 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"*     Restarts: (✔) hot (✖) phased (✖) refork"}
+2025-08-31_03:37:41.68181 {"timestamp":"2025-08-31T03:37:41.681Z","pid":833,"message":"* Preloading application"}

@@ -1,0 +1,13 @@
+2025-08-31_03:41:10.40914 ts=2025-08-31T03:41:10.409Z caller=main.go:86 level=warn msg="Error loading config" err="Error opening config file \"postgres_exporter.yml\": open postgres_exporter.yml: no such file or directory"
+2025-08-31_03:41:10.41522 ts=2025-08-31T03:41:10.409Z caller=proc.go:283 msg="Excluded databases" databases=[]
+2025-08-31_03:41:10.41523 ts=2025-08-31T03:41:10.409Z caller=main.go:99 level=warn msg="The extended queries.yaml config is DEPRECATED" file=/var/opt/gitlab/postgres-exporter/queries.yaml
+2025-08-31_03:41:10.41523 ts=2025-08-31T03:41:10.413Z caller=tls_config.go:274 level=info msg="Listening on" address=127.0.0.1:9187
+2025-08-31_03:41:10.41523 ts=2025-08-31T03:41:10.413Z caller=tls_config.go:277 level=info msg="TLS is disabled." http2=false address=127.0.0.1:9187
+2025-08-31_03:41:12.46758 ts=2025-08-31T03:41:12.466Z caller=server.go:74 level=info msg="Established new database connection" fingerprint=/var/opt/gitlab/postgresql:5432
+2025-08-31_03:41:12.48403 ts=2025-08-31T03:41:12.483Z caller=postgres_exporter.go:613 level=info msg="Semantic version changed" server=/var/opt/gitlab/postgresql:5432 from=0.0.0 to=16.8.0
+2025-08-31_03:41:12.48405 ts=2025-08-31T03:41:12.483Z caller=postgres_exporter.go:634 level=error msg="Failed to reload user queries" path=/var/opt/gitlab/postgres-exporter/queries.yaml err="open /var/opt/gitlab/postgres-exporter/queries.yaml: no such file or directory"
+2025-08-31_03:50:20.66235 ts=2025-08-31T03:50:20.662Z caller=main.go:86 level=warn msg="Error loading config" err="Error opening config file \"postgres_exporter.yml\": open postgres_exporter.yml: no such file or directory"
+2025-08-31_03:50:20.66339 ts=2025-08-31T03:50:20.662Z caller=proc.go:283 msg="Excluded databases" databases=[]
+2025-08-31_03:50:20.66340 ts=2025-08-31T03:50:20.662Z caller=main.go:99 level=warn msg="The extended queries.yaml config is DEPRECATED" file=/var/opt/gitlab/postgres-exporter/queries.yaml
+2025-08-31_03:50:20.66340 ts=2025-08-31T03:50:20.662Z caller=tls_config.go:274 level=info msg="Listening on" address=127.0.0.1:9187
+2025-08-31_03:50:20.66340 ts=2025-08-31T03:50:20.662Z caller=tls_config.go:277 level=info msg="TLS is disabled." http2=false address=127.0.0.1:9187

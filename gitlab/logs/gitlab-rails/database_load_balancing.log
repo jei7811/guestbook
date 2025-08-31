@@ -1,0 +1,15 @@
+# Logfile created on 2025-08-31 03:36:14 +0000 by logger.rb/v1.7.0
+{"severity":"DEBUG","time":"2025-08-31T03:36:14.674Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:36:14.675Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":true}
+{"severity":"DEBUG","time":"2025-08-31T03:36:14.676Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:36:14.677Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":true}
+{"severity":"DEBUG","time":"2025-08-31T03:37:25.451Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:37:25.453Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":true}
+{"severity":"DEBUG","time":"2025-08-31T03:37:25.454Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:37:25.456Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":true}
+{"severity":"DEBUG","time":"2025-08-31T03:40:58.916Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:40:58.921Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:41:07.779Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:41:07.782Z","correlation_id":null,"event":"setup","model":"ActiveRecord::Base","start_service_discovery":true}
+{"severity":"DEBUG","time":"2025-08-31T03:41:07.790Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":false}
+{"severity":"DEBUG","time":"2025-08-31T03:41:07.791Z","correlation_id":null,"event":"setup","model":"Ci::ApplicationRecord","start_service_discovery":true}

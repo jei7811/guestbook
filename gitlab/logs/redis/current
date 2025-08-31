@@ -1,0 +1,69 @@
+2025-08-31_03:39:51.79028 273:C 31 Aug 2025 03:39:51.790 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2025-08-31_03:39:51.79036 273:C 31 Aug 2025 03:39:51.790 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2025-08-31_03:39:51.79036 273:C 31 Aug 2025 03:39:51.790 * Redis version=7.2.10, bits=64, commit=5a752e19, modified=0, pid=273, just started
+2025-08-31_03:39:51.79037 273:C 31 Aug 2025 03:39:51.790 * Configuration loaded
+2025-08-31_03:39:51.79057 273:M 31 Aug 2025 03:39:51.790 * monotonic clock: POSIX clock_gettime
+2025-08-31_03:39:51.79093 273:M 31 Aug 2025 03:39:51.790 # Failed to write PID file: Permission denied
+2025-08-31_03:39:51.79093                 _._                                                  
+2025-08-31_03:39:51.79093            _.-``__ ''-._                                             
+2025-08-31_03:39:51.79093       _.-``    `.  `_.  ''-._           Redis 7.2.10 (5a752e19/0) 64 bit
+2025-08-31_03:39:51.79094   .-`` .-```.  ```\/    _.,_ ''-._                                  
+2025-08-31_03:39:51.79094  (    '      ,       .-`  | `,    )     Running in standalone mode
+2025-08-31_03:39:51.79094  |`-._`-...-` __...-.``-._|'` _.-'|     Port: 0
+2025-08-31_03:39:51.79094  |    `-._   `._    /     _.-'    |     PID: 273
+2025-08-31_03:39:51.79094   `-._    `-._  `-./  _.-'    _.-'                                   
+2025-08-31_03:39:51.79094  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2025-08-31_03:39:51.79095  |    `-._`-._        _.-'_.-'    |           https://redis.io       
+2025-08-31_03:39:51.79095   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2025-08-31_03:39:51.79095  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2025-08-31_03:39:51.79095  |    `-._`-._        _.-'_.-'    |                                  
+2025-08-31_03:39:51.79095   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2025-08-31_03:39:51.79095       `-._    `-.__.-'    _.-'                                       
+2025-08-31_03:39:51.79096           `-._        _.-'                                           
+2025-08-31_03:39:51.79096               `-.__.-'                                               
+2025-08-31_03:39:51.79096 
+2025-08-31_03:39:51.79122 273:M 31 Aug 2025 03:39:51.791 * Server initialized
+2025-08-31_03:39:51.79128 273:M 31 Aug 2025 03:39:51.791 * Ready to accept connections unix
+2025-08-31_03:44:52.81356 273:M 31 Aug 2025 03:44:52.709 * 10 changes in 300 seconds. Saving...
+2025-08-31_03:44:53.78399 273:M 31 Aug 2025 03:44:52.972 * Background saving started by pid 718
+2025-08-31_03:44:55.50495 718:C 31 Aug 2025 03:44:55.397 * DB saved on disk
+2025-08-31_03:44:58.28268 718:C 31 Aug 2025 03:44:58.158 * Fork CoW for RDB: current 0 MB, peak 0 MB, average 0 MB
+2025-08-31_03:45:04.31789 273:M 31 Aug 2025 03:45:04.035 * Background saving terminated with success
+2025-08-31_03:50:14.55714 266:C 31 Aug 2025 03:50:14.557 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+2025-08-31_03:50:14.55766 266:C 31 Aug 2025 03:50:14.557 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+2025-08-31_03:50:14.55766 266:C 31 Aug 2025 03:50:14.557 * Redis version=7.2.10, bits=64, commit=5a752e19, modified=0, pid=266, just started
+2025-08-31_03:50:14.55767 266:C 31 Aug 2025 03:50:14.557 * Configuration loaded
+2025-08-31_03:50:14.55767 266:M 31 Aug 2025 03:50:14.557 * monotonic clock: POSIX clock_gettime
+2025-08-31_03:50:14.55798 266:M 31 Aug 2025 03:50:14.557 # Failed to write PID file: Permission denied
+2025-08-31_03:50:14.55800                 _._                                                  
+2025-08-31_03:50:14.55800            _.-``__ ''-._                                             
+2025-08-31_03:50:14.55801       _.-``    `.  `_.  ''-._           Redis 7.2.10 (5a752e19/0) 64 bit
+2025-08-31_03:50:14.55801   .-`` .-```.  ```\/    _.,_ ''-._                                  
+2025-08-31_03:50:14.55801  (    '      ,       .-`  | `,    )     Running in standalone mode
+2025-08-31_03:50:14.55801  |`-._`-...-` __...-.``-._|'` _.-'|     Port: 0
+2025-08-31_03:50:14.55801  |    `-._   `._    /     _.-'    |     PID: 266
+2025-08-31_03:50:14.55801   `-._    `-._  `-./  _.-'    _.-'                                   
+2025-08-31_03:50:14.55802  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2025-08-31_03:50:14.55802  |    `-._`-._        _.-'_.-'    |           https://redis.io       
+2025-08-31_03:50:14.55802   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2025-08-31_03:50:14.55802  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2025-08-31_03:50:14.55802  |    `-._`-._        _.-'_.-'    |                                  
+2025-08-31_03:50:14.55802   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2025-08-31_03:50:14.55802       `-._    `-.__.-'    _.-'                                       
+2025-08-31_03:50:14.55803           `-._        _.-'                                           
+2025-08-31_03:50:14.55803               `-.__.-'                                               
+2025-08-31_03:50:14.55804 
+2025-08-31_03:50:14.55831 266:M 31 Aug 2025 03:50:14.558 * Server initialized
+2025-08-31_03:50:14.55899 266:M 31 Aug 2025 03:50:14.558 * Loading RDB produced by version 7.2.10
+2025-08-31_03:50:14.55900 266:M 31 Aug 2025 03:50:14.558 * RDB age 321 seconds
+2025-08-31_03:50:14.55900 266:M 31 Aug 2025 03:50:14.558 * RDB memory usage when created 1.32 Mb
+2025-08-31_03:50:14.55900 266:M 31 Aug 2025 03:50:14.558 * Done loading RDB, keys loaded: 3, keys expired: 0.
+2025-08-31_03:50:14.55900 266:M 31 Aug 2025 03:50:14.558 * DB loaded from disk: 0.001 seconds
+2025-08-31_03:50:14.55901 266:M 31 Aug 2025 03:50:14.558 * Ready to accept connections unix
+2025-08-31_03:50:20.34004 266:signal-handler (1756612220) Received SIGTERM scheduling shutdown...
+2025-08-31_03:50:20.37628 266:M 31 Aug 2025 03:50:20.376 * User requested shutdown...
+2025-08-31_03:50:20.37631 266:M 31 Aug 2025 03:50:20.376 * Saving the final RDB snapshot before exiting.
+2025-08-31_03:50:20.38083 266:M 31 Aug 2025 03:50:20.380 * DB saved on disk
+2025-08-31_03:50:20.38085 266:M 31 Aug 2025 03:50:20.380 * Removing the pid file.
+2025-08-31_03:50:20.38086 266:M 31 Aug 2025 03:50:20.380 * Removing the unix socket file.
+2025-08-31_03:50:20.38087 266:M 31 Aug 2025 03:50:20.380 # Redis is now ready to exit, bye bye...

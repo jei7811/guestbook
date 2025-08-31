@@ -1,0 +1,11 @@
+172.17.0.3 - - [31/Aug/2025:03:40:58 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:40:58 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:40:59 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:40:59 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:41:00 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+40.80.207.25 - - [31/Aug/2025:03:48:44 +0000] "GET /developmentserver/metadatauploader HTTP/1.1" 499 0 "" "Mozilla/5.0 zgrab/0.x" -
+172.17.0.3 - - [31/Aug/2025:03:49:28 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:49:28 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:49:28 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:49:28 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
+172.17.0.3 - - [31/Aug/2025:03:49:29 +0000] "GET /api/v4/internal/kubernetes/receptive_agents HTTP/1.1" 502 35 "" "gitlab-kas/v18.3.1/v18.3.1" -
